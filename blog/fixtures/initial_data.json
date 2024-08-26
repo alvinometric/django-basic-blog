@@ -1,0 +1,47 @@
+[
+  {
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+      "title": "First Post",
+      "content": "This is the content of the first post.",
+      "published_date": "2023-08-21T12:00:00Z"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+      "title": "Second Post",
+      "content": "This is the content of the second post.",
+      "published_date": "2023-08-22T14:00:00Z"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+      "title": "Third Post",
+      "content": "This is the content of the third post.",
+      "published_date": "2023-08-23T16:00:00Z"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+      "title": "Fourth Post",
+      "content": "This is the content of the fourth post.",
+      "published_date": "2023-08-24T18:00:00Z"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+      "title": "Fifth Post",
+      "content": "This is the content of the fifth post.",
+      "published_date": "2023-08-25T20:00:00Z"
+    }
+  }
+]
